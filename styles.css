@@ -1,0 +1,42 @@
+#counterText {
+    margin-left: 9%;
+    color: darkgreen;
+    font-family: "Oswald", sans-serif;
+}
+
+#decreaseButton {
+    background-color: white;
+    padding: .3rem;
+    border-radius: 12px;
+    letter-spacing: .1rem;
+    
+}
+
+#decreaseButton:hover {
+    border-color: blue;
+    cursor: pointer;
+}
+
+#resetButton {
+    background-color: white;
+    padding: .3rem;
+    border-radius: 12px;
+    letter-spacing: .1rem;
+}
+
+#resetButton:hover {
+    border-color: blue;
+    cursor: pointer;
+}
+
+#increaseButton {
+    background-color: white;
+    padding: .3rem;
+    border-radius: 12px;
+    letter-spacing: .1rem;
+}
+
+#increaseButton:hover {
+    border-color: blue;
+    cursor: pointer;
+}
